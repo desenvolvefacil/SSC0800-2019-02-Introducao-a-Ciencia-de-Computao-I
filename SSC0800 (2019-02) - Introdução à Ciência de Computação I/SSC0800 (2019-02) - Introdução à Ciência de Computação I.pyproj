@@ -1,0 +1,73 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>EX 008 - Lista 2 - Estrutura de Repetição - Somatório.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>SSC0800 (2019-02) - Introdução à Ciência de Computação I</Name>
+    <RootNamespace>SSC0800 (2019-02) - Introdução à Ciência de Computação I</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="EX 008 - Lista 2 - Estrutura de Repetição - Somatório.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 011 - Lista 2 - Estrutura de Repetição - Divisores.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 010 - Lista 2 - Estrutura de Repetição - Resultado textual.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 012 - Lista 2 - Estrutura Condicional - Ordem crescente.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 013 - Lista 2 - Estrutura de Repetição - Menores.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 014 - Lista 2 - Estrutura de Repetição - Tabuada.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 015 - Lista 3 - Funções - Seno.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 016 - Lista 3 - Funções - Maior e Menor Real.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 017 - Lista 3 - Funções - Soma Pares Parte II.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 018 - Lista 3 - Funções - Lado do Triângulo.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 019 - Lista 3 - Funções - Fibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 020 - Lista 3 - Funções - Soma Pares Parte I.py" />
+    <Compile Include="EX 021 - Lista 3 - Funções - Planetas.py" />
+    <Compile Include="EX 022 - Lista 3 - Funções - Ângulos do Triângulo.py" />
+    <Compile Include="EX 009 - Lista 2 - Estrutura de Repetição - Média 10 valores.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
