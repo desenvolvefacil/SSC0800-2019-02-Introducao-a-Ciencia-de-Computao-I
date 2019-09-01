@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EX 007 - Lista 2 - Estrutura Condicional - Tipo de Triangulo.py</StartupFile>
+    <StartupFile>EX 002 - Lista 1 - Dados e Expressões - Operações Aritméticas.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,21 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="EX 001 - Lista 1 - Dados e Expressões - Conversões Celsius para Fahrenheit e Kelvin.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 002 - Lista 1 - Dados e Expressões - Operações Aritméticas.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 003 - Lista 1 - Dados e Expressões - Volume.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 004 - Lista 1 - Dados e Expressões - Menor número possível de cédulas.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 005 - Lista 1 - Dados e Expressões - Conversão de graus para radianos.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="EX 006 - Lista 2 - Estrutura Condicional - Bissexto.py">
       <SubType>Code</SubType>
     </Compile>
