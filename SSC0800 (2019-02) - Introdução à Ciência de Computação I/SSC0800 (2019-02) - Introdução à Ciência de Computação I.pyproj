@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EX 008 - Lista 2 - Estrutura de Repetição - Somatório.py</StartupFile>
+    <StartupFile>EX 007 - Lista 2 - Estrutura Condicional - Tipo de Triangulo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,12 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="EX 006 - Lista 2 - Estrutura Condicional - Bissexto.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 007 - Lista 2 - Estrutura Condicional - Tipo de Triangulo.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="EX 008 - Lista 2 - Estrutura de Repetição - Somatório.py">
       <SubType>Code</SubType>
     </Compile>
