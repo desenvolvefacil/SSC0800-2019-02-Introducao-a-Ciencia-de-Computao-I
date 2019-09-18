@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EX 031 - Lista 4 - Listas e Tuplas - Subsequência.py</StartupFile>
+    <StartupFile>EX 035 - Lista 5 - NumPy - Operacoes com Matrizes.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -106,6 +106,14 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="EX 031 - Lista 4 - Listas e Tuplas - Subsequência.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 032 - Lista 5 - NumPy - Operacoes com Escalar .py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 033 - Lista 5 - NumPy - Produto Escalar, Interno e Externo.py" />
+    <Compile Include="EX 035 - Lista 5 - NumPy - Operacoes com Matrizes.py" />
+    <Compile Include="EX 034 - Lista 5 - NumPy - Determinante ,Inversa e Transposta.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
