@@ -20,7 +20,7 @@ m2 = np.array(m2)
 print("M1 + M2")
 print(m1 + m2)
 
-print("M1 * M2")
+print("M1 - M2")
 print(m1 - m2)
 
 print("M1 * M2")

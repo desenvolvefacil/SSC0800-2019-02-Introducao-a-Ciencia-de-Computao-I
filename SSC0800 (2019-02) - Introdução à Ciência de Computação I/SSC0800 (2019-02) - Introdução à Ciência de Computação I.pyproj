@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EX 039 - Lista 5 - Dicionarios - Mesclagem.py</StartupFile>
+    <StartupFile>000_testes.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="000_testes.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="EX 001 - Lista 1 - Dados e Expressões - Conversões Celsius para Fahrenheit e Kelvin.py">
       <SubType>Code</SubType>
     </Compile>
