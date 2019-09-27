@@ -1,31 +1,29 @@
-def fat(num):
-    if num == 0:
-        f = 1
-    else:
-        f = 1
-        for i in range(1, num + 1):
-            f = f * i
-    return f
+import math
+#ENTRADAS
+num_palavras = int(input())
+palavras = []
+for i in range(num_palavras):
 
-x = int(input())
+    cada_palavra = input()
+    cada_palavra = cada_palavra.replace("\r","")
+    cada_palavra = cada_palavra.replace("\n","")
 
+    palavras.append(cada_palavra)
 
-entrada = []
-
-for i in range(x):
-
-    palavra = input()
-    palavra = palavra.replace("\n","")
-    palavra = palavra.replace("\r","")
-
-    entrada.append(palavra)
-
-
-
-for t in entrada:
-    alfabeto = "qwertyuiopasdfghjklzxcvbnm"
-    denominador = 1
-    for w in alfabeto:
-        denominador = denominador * fat(t.count(w))
-    anagrama = int(fat(len(t)) / denominador)
-    print(anagrama)
+#TAMANHO DE CADA PALAVRA
+    for j in palavras:
+        cada_palavra = list(j)
+        
+        tamanho = len(cada_palavra)
+        d = {}
+        for letra in cada_palavra:
+            if letra in d :
+                d[letra] += 1
+            else:
+                d[letra] = 1
+    divisor = 1
+    for n in d.values() :
+        divisor *= math.factorial(n)
+    resposta = int(math.factorial(tamanho)/divisor)
+    print(resposta)
+        
