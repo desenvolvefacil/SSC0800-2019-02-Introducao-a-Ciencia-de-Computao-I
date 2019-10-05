@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Prova 1 Teorica - EX 2.py</StartupFile>
+    <StartupFile>Prova 1 Lab - Ex1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -121,6 +121,10 @@
     <Compile Include="EX 037 - Lista 5 - Dicionarios - In Not In.py" />
     <Compile Include="EX 036 - Lista 5 - Dicionarios - PopItem.py" />
     <Compile Include="EX 034 - Lista 5 - NumPy - Determinante ,Inversa e Transposta.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Prova 1 Lab - Ex1.py" />
+    <Compile Include="Prova 1 Lab - Ex2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Prova 1 Teorica - EX 2.py" />
