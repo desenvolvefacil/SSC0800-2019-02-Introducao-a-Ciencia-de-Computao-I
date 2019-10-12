@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Prova 1 Lab - Ex1.py</StartupFile>
+    <StartupFile>EX 046 - Lista 6 - Recursão - Fibonacci.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -116,6 +116,12 @@
     </Compile>
     <Compile Include="EX 033 - Lista 5 - NumPy - Produto Escalar, Interno e Externo.py" />
     <Compile Include="EX 035 - Lista 5 - NumPy - Operacoes com Matrizes - Copy.py" />
+    <Compile Include="EX 046 - Lista 6 - Recursão - Fibonacci.py" />
+    <Compile Include="EX 045 - Lista 6 - Recursão - MDC.py" />
+    <Compile Include="EX 043 - Lista 6 - Recursão - Decimal para Binário.py" />
+    <Compile Include="EX 042 - Lista 6 - Recursão - Inverter Vetor.py" />
+    <Compile Include="EX 041 - Lista 6 - Recursão - Multiplicação.py" />
+    <Compile Include="EX 040 - Lista 6 - Recursão - Potencia.py" />
     <Compile Include="EX 039 - Lista 5 - Dicionarios - Mesclagem.py" />
     <Compile Include="EX 038 - Lista 5 - Dicionarios - Delete .py" />
     <Compile Include="EX 037 - Lista 5 - Dicionarios - In Not In.py" />
