@@ -14,7 +14,7 @@ class Nadador(Atleta):
 
 class Ciclista(Atleta):
     def pedalar(self):
-        return ("Cilista "+self.nome+" pedalando")
+        return ("Ciclista "+self.nome+" pedalando")
 
 class TriAtleta(Corredor,Nadador,Ciclista):
 
