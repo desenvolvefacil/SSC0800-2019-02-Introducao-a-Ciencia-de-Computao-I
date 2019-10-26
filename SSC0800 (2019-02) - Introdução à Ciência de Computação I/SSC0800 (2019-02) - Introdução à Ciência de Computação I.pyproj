@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Prova 2 Teorica - EX 2.py</StartupFile>
+    <StartupFile>EX 052 - Lista 6 - Recusão Inverter Matriz - SOL2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -144,6 +144,12 @@
     <Compile Include="EX 051 - Lista 7 - POO - TriAtleta.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="EX 052 - Lista 6 - Recusão Inverter Matriz - SOL2.py" />
+    <Compile Include="EX 052 - Lista 6 - Recusão Inverter Matriz - SOL3.py" />
+    <Compile Include="EX 053 - Lista 7 - POO - Funcionarios.py" />
+    <Compile Include="Prova 2 Lab - Ex 1.py" />
+    <Compile Include="Prova 2 Lab - Ex 2 - Copy.py" />
+    <Compile Include="EX 052 - Lista 6 - Recusão Inverter Matriz - SOL1.py" />
     <Compile Include="Prova 1 Lab - Ex1.py" />
     <Compile Include="Prova 1 Lab - Ex2.py">
       <SubType>Code</SubType>
