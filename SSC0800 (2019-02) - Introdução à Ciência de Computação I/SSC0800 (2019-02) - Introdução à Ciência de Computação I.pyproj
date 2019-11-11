@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Prova 2 b- SSC0800 - Exercício 1.py</StartupFile>
+    <StartupFile>000_testes.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -37,6 +37,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="EX 005 - Lista 1 - Dados e Expressões - Conversão de graus para radianos.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 054 -  Lista 8 - Arquivo e Recursão - Maior elemento.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="EX 006 - Lista 2 - Estrutura Condicional - Bissexto.py">
@@ -147,6 +150,18 @@
     <Compile Include="EX 052 - Lista 6 - Recusão Inverter Matriz - SOL2.py" />
     <Compile Include="EX 052 - Lista 6 - Recusão Inverter Matriz - SOL3.py" />
     <Compile Include="EX 053 - Lista 7 - POO - Funcionarios.py" />
+    <Compile Include="EX 055 - Lista 8 - Arquivos - Conta Caracteres.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 056 - Lista 8 - Arquivo - Letra de Música.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 057 - Lista 8 - Arquivos - Estatística Texto.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EX 058 - Lista 8 - Arquivos e Classes - Procura Registro.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Prova 2 b- SSC0800 - Exercício 1.py">
       <SubType>Code</SubType>
     </Compile>
@@ -163,6 +178,12 @@
     <Compile Include="Prova 1 Teorica - EX 1.py">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dados-alunos.bin" />
+    <Content Include="dados.txt" />
+    <Content Include="QuePaiseEste.txt" />
+    <Content Include="texto.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
