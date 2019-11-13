@@ -1,24 +1,7 @@
-import pickle as pk
+'''
 
-class Aluno (object):
-    def __init__ (self, nome, idade, sexo, matricula):
-        self.nome  = nome
-        self.idade = idade
-        self.sexo = sexo
-        self.matricula = matricula
+“No fundo, nós estamos sempre sozinhos, por mais que tenhamos o amor de familiares e alguns poucos amigos ao longo da vida, isso não nos livra dos pesos que cabem somente a cada um de nós. Ninguém pensa, sente ou age por nós. Nós nascemos e morremos sozinho, claro que é bom o fato de termos pessoas ao nosso lado para rir, chorar e compartilhar os momentos, mas é preciso ter sempre em mente que no fundo estamos sempre sós.”
 
-    def __str__ (self):
-        return "Nome: "+self.nome+"\nIdade: "+self.idade+"\nSexo: "+self.sexo+"\nMatricula: "+self.matricula 
+Facebook Reacreditar
 
-f = open("aaaa.bin","wb")
-
-total = 8
-
-pk.dump(total,f)
-
-for i in range(total):
-    a = Aluno("Aluno "+str(i),i,"m",i*9)
-
-    pk.dump(a,f)
-
-f.close()
+'''

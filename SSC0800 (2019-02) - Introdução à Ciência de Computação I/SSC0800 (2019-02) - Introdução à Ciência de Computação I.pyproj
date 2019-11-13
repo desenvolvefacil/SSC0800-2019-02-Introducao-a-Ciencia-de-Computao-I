@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>000_testes.py</StartupFile>
+    <StartupFile>EX 059 - Lista 8 - Arquivos e Classes - Estatística Binário.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -159,6 +159,7 @@
     <Compile Include="EX 057 - Lista 8 - Arquivos - Estatística Texto.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="EX 059 - Lista 8 - Arquivos e Classes - Estatística Binário.py" />
     <Compile Include="EX 058 - Lista 8 - Arquivos e Classes - Procura Registro.py">
       <SubType>Code</SubType>
     </Compile>
