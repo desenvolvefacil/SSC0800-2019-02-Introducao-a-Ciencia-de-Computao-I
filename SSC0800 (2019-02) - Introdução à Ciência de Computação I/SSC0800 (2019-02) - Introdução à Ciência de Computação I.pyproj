@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6d90b40d-b80c-4501-a2fa-42d7eecb3317</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>EX 059 - Lista 8 - Arquivos e Classes - Estatística Binário.py</StartupFile>
+    <StartupFile>000_testes.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -179,9 +179,17 @@
     <Compile Include="Prova 1 Teorica - EX 1.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Prova 3 Lab - EX1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Prova 3 Teorica - EX1.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="alunos.txt" />
     <Content Include="dados-alunos.bin" />
+    <Content Include="dados-bebes.txt" />
     <Content Include="dados.txt" />
     <Content Include="QuePaiseEste.txt" />
     <Content Include="texto.txt" />

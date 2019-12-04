@@ -1,0 +1,6 @@
+28-11-2016|f|0.82|3.71|Janice da Silva
+22-12-2016|m|0.37|3.24|Antonio Machado Teixeira
+09-02-2017|f|0.57|2.81|Suzana da Silva de Oliveira
+03-06-2017|m|0.78|3.25|Joao Souza
+10-03-2017|m|0.39|3.47|Ramon de Castro
+14-04-2017|f|0.23|3.51|Viviane Mendonca
