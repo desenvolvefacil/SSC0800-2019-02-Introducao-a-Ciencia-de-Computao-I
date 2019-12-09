@@ -179,7 +179,8 @@
     <Compile Include="Prova 1 Teorica - EX 1.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Prova 3 Lab - EX1.py">
+    <Compile Include="Prova 3 Lab - EX1 - Copy.py" />
+    <Compile Include="Prova Sub - EX1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Prova 3 Teorica - EX1.py">
